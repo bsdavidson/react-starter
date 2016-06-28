@@ -3,12 +3,12 @@
 This is a starter boilerplate for making ReactJS Apps.
 It's a basic app with a single image asset and "Hello World".
 
-It uses the following components:
+## It uses the following components:
 
   - Webpack to bundle all the things
   - Sass loaders for stylesheets
-  - Loads normalize.css
-  - It uses sass for stylesheets
+  - Normalize.css for stylesheet resetting
+  - Sass
   - jsx for writing React
 
 ## For Testing it uses..
