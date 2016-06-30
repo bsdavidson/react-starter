@@ -1,24 +1,27 @@
-# React Boilerplate
+# ReactJS Starter
 
-This is a starter boilerplate for making ReactJS Apps.
+This is a starting point for making ReactJS Apps.
 It's a basic app with a single image asset and "Hello World".
+It also includes a working test.
 
-## It uses the following components:
+## Uses
+Use it to skip all the boring bootstrapping and start coding.
+
+### It uses the following components:
 
   - Webpack to bundle all the things
   - Sass loaders for stylesheets
   - Normalize.css for stylesheet resetting
-  - Sass
-  - jsx for writing React
+  - JSX for writing React
 
-## For Testing it uses..
+### For testing it uses..
   - Karma for running tests
   - Mocha for the framework
   - Chai as the assertion library
   - Mocha with diffing for report running
   - Enzyme testing utilities
 
-### Installation
+## Installation
 
 Requires [Node.js](https://nodejs.org/) to run.
 
@@ -43,7 +46,7 @@ Run test once
 ```sh
 $ npm run test
 ```
-Run Continous tests
+Run continous tests
 ```sh
 $ npm run test-watch
 ```
